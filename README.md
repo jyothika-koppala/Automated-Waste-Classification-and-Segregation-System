@@ -113,17 +113,7 @@ v. Jumper Wires, Breadboard
 
 ---
 
-9. Future Enhancements
 
-- Add LCD display to show classification result
-
-- IoT Integration to track waste analytics online
-
-- Add voice assistant for feedback
-
-- Solar-powered waste bin
-
----
 
 
 
