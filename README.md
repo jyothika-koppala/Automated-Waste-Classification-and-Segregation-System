@@ -13,7 +13,7 @@ An AI-based system that uses image processing and ML to classify waste as biodeg
 
 ---
 
-3. Tech Stack
+2. Tech Stack
 
 - Python
 - OpenCV
@@ -24,7 +24,7 @@ An AI-based system that uses image processing and ML to classify waste as biodeg
 
 ---
 
-4. Project Architecture
+3. Project Architecture
 
 i.  Waste image is captured using a camera
 
@@ -39,7 +39,7 @@ iv. A servo or motor system activates to open the correct bin
 
 ---
 
-5. Installation
+4. Installation
 
 ```bash
 # Clone the repository
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-6. Project structure
+5. Project structure
 
 ```bash
 waste-classification-system/
@@ -79,7 +79,7 @@ waste-classification-system/
 
 ---
 
-7. DataSet and Model
+6. DataSet and Model
 
 > You can use custom waste datasets or open datasets like:
 
@@ -91,7 +91,7 @@ waste-classification-system/
 
 ---
 
-8.How to Run
+7. How to Run
 
 ```bash
 python main.py
@@ -99,7 +99,7 @@ python main.py
 
 ---
 
-8.  Hardware Requirements
+8. Hardware Requirements
 
 i. Raspberry Pi / Arduino / ESP32
 
