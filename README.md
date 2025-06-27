@@ -32,13 +32,13 @@ An AI-based system that uses image processing and ML to classify waste as biodeg
 
 4. Project Architecture
 
-1. Waste image is captured using a camera
-2. Pre-trained CNN model classifies the waste type
-3. Based on the classification:
+i.  Waste image is captured using a camera
+ii. Pre-trained CNN model classifies the waste type
+iii.Based on the classification:
    - Biodegradable → Bin 1
    - Non-biodegradable → Bin 2
    - Recyclable → Bin 3
-4. A servo or motor system activates to open the correct bin
+iv. A servo or motor system activates to open the correct bin
 
 ---
 
