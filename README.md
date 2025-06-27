@@ -13,12 +13,6 @@ An AI-based system that uses image processing and ML to classify waste as biodeg
 
 ---
 
-2. Demo
-
-> *(Add images or GIFs of your system working here)*
-
----
-
 3. Tech Stack
 
 - Python
